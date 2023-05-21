@@ -1,0 +1,54 @@
+
+# Maria's Feed #
+
+## Viral Posts ##
+** Aaron Moss **
+ Welcome to CS 305! 
+ 50 x <3
+--------------------------------------------------
+** Patrick Stewart **
+ Make it so! 
+ 1024 x <3
+--------------------------------------------------
+# Other Posts #
+** Aaron Moss **
+ Java is fun! 
+ 5 x <3
+--------------------------------------------------
+** Aaron Moss **
+ I love data structures! 
+ 25 x <3
+--------------------------------------------------
+** James Hall **
+ Can I get some help with arrays? 
+ 5 x <3
+--------------------------------------------------
+
+# James' Feed #
+
+## Viral Posts ##
+** Aaron Moss **
+ Welcome to CS 305! 
+ 50 x <3
+--------------------------------------------------
+** Youngster **
+ I like shorts! They're comfy and easy to wear! 
+ 128 x <3
+--------------------------------------------------
+# Other Posts #
+** Aaron Moss **
+ Java is fun! 
+ 5 x <3
+--------------------------------------------------
+** Aaron Moss **
+ I love data structures! 
+ 25 x <3
+--------------------------------------------------
+** Maria Nieto **
+ Is Dr. Moss always so enthusiastic? 
+ 16 x <3
+--------------------------------------------------
+** Jane Austen **
+ It is a truth universally acknowledged... 
+ 20 x <3
+--------------------------------------------------
